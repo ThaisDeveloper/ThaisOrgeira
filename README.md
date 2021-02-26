@@ -1,5 +1,4 @@
 - Olá meu nome e Thais sou Analista Desenvolvedora Junior 👩‍💻
 - Apaixonada por tecnologia que resolveu aventurar-se pelo universo da Programação Frontend 💜
 
-## Como os Cards :monocle_face:
-## Como usar os Cards? :monocle_face:
+[![Linkedin: Thais Orgeira](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
