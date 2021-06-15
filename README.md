@@ -1,3 +1,3 @@
-Apaixonada por tecnologia que resolveu aventurar-se pelo universo da Programação Frontend 💜
+Apaixonada por tecnologia que resolveu aventurar-se pelo universo da Programação Frontend. 💜
 
 
