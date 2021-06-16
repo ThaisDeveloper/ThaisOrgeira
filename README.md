@@ -1,3 +1,4 @@
-Apaixonada por tecnologia que resolveu aventurar-se pelo universo da Programação Frontend. 💜
+OLÁ me chamo Thais, 
+Sou Desenvolovedora Front-End e estou cursando Análise e Desenvolvimneto de Sistemas 💜
 
 
