@@ -1,4 +1,5 @@
-# Bem vindo (a)! 👋🏻
+#  Oi eu sou a Thais! 👋🏻
 
-Olá! me chamo Thais sou Desenvolvedora Front-End, atualmente estou cursando Análise e Desenvolvimento de Sistemas. 👩‍💻
+ Desenvolvedora Front-End. 👩‍💻
+ Estudante de Analise e desenvolvimento de sistemas pela Puc. 📚
 
