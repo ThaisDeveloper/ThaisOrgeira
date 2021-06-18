@@ -1,4 +1,4 @@
-OLÁ me chamo Thais, 
-Sou Desenvolovedora Front-End e estou cursando Análise e Desenvolvimneto de Sistemas 💜
+# Bem vindo (a)! 👋🏻
 
+Olá! me chamo Thais sou Desenvolvedora Front-End, atualmente estou cursando Análise e Desenvolvimento de Sistemas. 👩‍💻
 
