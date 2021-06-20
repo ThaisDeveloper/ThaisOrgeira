@@ -7,7 +7,7 @@
 - Estudante de Análise e desenvolvimento de sistemas pela Puc. 📚
  <div>
   <a href="https://github.com/ThaisDeveloper">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaisDeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaisDeveloper&show_icons=true&theme=dracula&include_all_commits=truecount_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisDeveloper&layout=compact&langs_count=16&theme=dracula"/>
 </div>
    <div style="display: inline_block"><br>
