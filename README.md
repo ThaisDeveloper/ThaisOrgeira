@@ -15,7 +15,7 @@
   <img align="center" alt="thais-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="thais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="thais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="gif" src="https://i.pinimg.com/originals/ba/97/10/ba9710ca2c65ef7bc4318c9d857d9f1f.gif">
+    <img align="right" alt="gif" src="https://64.media.tumblr.com/3d2ceb6d15a36c8bb1a02ffc923279c2/tumblr_p3sj7feavw1weyvovo3_500.gifv">
 </div>
  
   ##
