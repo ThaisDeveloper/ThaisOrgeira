@@ -8,7 +8,7 @@
  <div>
   <a href="https://github.com/ThaisDeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaisDeveloper&show_icons=true&theme=dracula&include_all_commits=truecount_private=true"/>
-  <img align="right" height="180em" alt="gif" src="https://64.media.tumblr.com/3d2ceb6d15a36c8bb1a02ffc923279c2/tumblr_p3sj7feavw1weyvovo3_500.gifv">
+  <img align="center"  height="180em" alt="gif" src="https://64.media.tumblr.com/3d2ceb6d15a36c8bb1a02ffc923279c2/tumblr_p3sj7feavw1weyvovo3_500.gifv">
 </div>
    <div style="display: inline_block"><br>
   <img align="center" alt="thais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
