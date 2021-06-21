@@ -5,6 +5,12 @@
 ## Oiii! Eu sou a Thais! 👋🏻
 - Desenvolvedora Front-End. 👩‍💻
 - Estudante de Análise e desenvolvimento de sistemas pela Puc. 📚
+- - 🔎 Conheça alguns dos meus projetos
+   - [Dino Game](https://github.com/ThaisDeveloper/DinoGame)
+   - [Calculadora Simples](https://github.com/ThaisDeveloper/Calculadora-Javascript)
+   
+
+
  <div>
   <a href="https://github.com/ThaisDeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaisDeveloper&show_icons=true&theme=dracula&include_all_commits=truecount_private=true"/>
