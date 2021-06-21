@@ -5,7 +5,7 @@
 ## Oiii! Eu sou a Thais! 👋🏻
 - Desenvolvedora Front-End. 👩‍💻
 - Estudante de Análise e desenvolvimento de sistemas pela Puc. 📚
-- - 🔎 Conheça alguns dos meus projetos
+- 🔎 Conheça alguns dos meus projetos
    - [Dino Game](https://github.com/ThaisDeveloper/DinoGame)
    - [Calculadora Simples](https://github.com/ThaisDeveloper/Calculadora-Javascript)
    
