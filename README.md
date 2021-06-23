@@ -27,7 +27,7 @@
   ##
 
 <div> 
-  <a href="https://instagram.com/thais.dev" target="_blank"><img src=" " target="_blank"></a>
+  
 
 </div>
  
