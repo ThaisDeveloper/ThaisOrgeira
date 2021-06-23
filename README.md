@@ -6,14 +6,14 @@
 - Desenvolvedora Front-End. 👩‍💻
 - Estudante de Análise e desenvolvimento de sistemas pela Puc. 📚
 - 🔎 Conheça alguns dos meus projetos
-   - [Dino Game](https://github.com/ThaisDeveloper/DinoGame)
-   - [Calculadora Simples](https://github.com/ThaisDeveloper/Calculadora-Javascript)
+   - [Dino Game](https://github.com/ThaisOrgeira/DinoGame)
+   - [Calculadora Simples](https://github.com/ThaisOrgeira/Calculadora-Javascript)
    
 
 
  <div>
   <a href="https://github.com/ThaisDeveloper">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaisDeveloper&show_icons=true&theme=dracula&include_all_commits=truecount_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaisOrgeira&show_icons=true&theme=dracula&include_all_commits=truecount_private=true"/>
   <img  height="180em" alt="gif" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif">
 </div>
    <div style="display: inline_block"><br>
@@ -31,4 +31,4 @@
 
 </div>
  
-  ![Snake animation](https://github.com/ThaisDeveloper/ThaisDeveloper/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ThaisOrgeira/ThaisOrgeira/blob/output/github-contribution-grid-snake.svg)
