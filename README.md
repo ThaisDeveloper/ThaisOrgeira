@@ -8,8 +8,8 @@
 - 🔎 Conheça alguns dos meus projetos
    - [30 Dias de CSS](https://github.com/ThaisOrgeira/30diasDeCSS)
    - [Calculadora IMC](https://github.com/ThaisOrgeira/Calculadora-IMC)
-   - [Dino Game](https://github.com/ThaisOrgeira/DinoGame)
    - [Calculadora Simples](https://github.com/ThaisOrgeira/Calculadora-Javascript)
+   - [Dino Game](https://github.com/ThaisOrgeira/DinoGame)
    - [To Do List](https://github.com/ThaisOrgeira/To-Do-List/blob/main/README.md)
    - [Interruptor](https://github.com/ThaisOrgeira/Lampada-Javascript)
    
