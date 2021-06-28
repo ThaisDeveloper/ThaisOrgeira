@@ -6,6 +6,7 @@
 - Desenvolvedora Front-End. 👩‍💻
 - Estudante de Análise e desenvolvimento de sistemas pela Puc. 📚
 - 🔎 Conheça alguns dos meus projetos
+   - [30 Dias de CSS](https://github.com/ThaisOrgeira/30diasDeCSS)
    - [Dino Game](https://github.com/ThaisOrgeira/DinoGame)
    - [Calculadora Simples](https://github.com/ThaisOrgeira/Calculadora-Javascript)
    
