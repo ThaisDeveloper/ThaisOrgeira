@@ -6,6 +6,7 @@
 - Desenvolvedora Front-End. 👩‍💻
 - Estudante de Análise e desenvolvimento de sistemas pela Puc. 📚
 - 🔎 Conheça alguns dos meus projetos
+   - [Pokedex React](https://github.com/ThaisOrgeira/Pokedex-React)
    - [30 Dias de CSS](https://github.com/ThaisOrgeira/30diasDeCSS)
    - [Calculadora IMC](https://github.com/ThaisOrgeira/Calculadora-IMC)
    - [Calculadora Simples](https://github.com/ThaisOrgeira/Calculadora-Javascript)
