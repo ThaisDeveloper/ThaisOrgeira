@@ -2,9 +2,8 @@
 
 
 
-## Oiii! Eu sou a Thais! 👋🏻
-- Desenvolvedora Front-End. 👩‍💻
-- Repositório dedicado a estudos e projetos pessoas.
+## hey! Eu sou a Thais! 👋🏻
+-  Repositório dedicado a estudos e projetos pessoas.
  <div>
   <a href="https://github.com/ThaisDeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaisOrgeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
