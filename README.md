@@ -1,5 +1,3 @@
-
-Desenvolvedora de Software Padawan que adora falar sobre tecnologia, nerdices e vários outros assuntos do dia a dia, mas só depois de um bom café ☕️
 -  Repositório dedicado a estudos e projetos pessoais.
 <!--  <div>
   <a href="https://github.com/ThaisDeveloper">
