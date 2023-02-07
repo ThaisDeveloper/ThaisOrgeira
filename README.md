@@ -18,5 +18,4 @@
   
 
 </div>
- 
-  ![Snake animation](https://github.com/ThaisOrgeira/ThaisOrgeira/blob/output/github-contribution-grid-snake.svg)
+
